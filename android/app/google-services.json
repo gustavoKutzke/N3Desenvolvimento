@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "834334627359",
+    "project_id": "projetofluwat",
+    "storage_bucket": "projetofluwat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834334627359:android:4402461fba6146761fe72a",
+        "android_client_info": {
+          "package_name": "com.example.projetodese"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlQugVsqnUv2re7t4o0b67Q2QxcYr6s-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
